@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default [\"/_error\", \"/\"];","map":{"version":3,"sources":["/home/ajay/web/projects/dm-frontend/src/components/auth/public-pages.js"],"names":[],"mappings":"AAAA,eAAe,CAAC,SAAD,EAAY,GAAZ,CAAf","sourcesContent":["export default [\"/_error\", \"/\"];\n"]},"metadata":{},"sourceType":"module"}
