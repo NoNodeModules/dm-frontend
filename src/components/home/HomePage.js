@@ -169,18 +169,16 @@ And that is exactly the approach we should have towards design aswell. </p>
                             <div className='container'>
                                 <div className='row'>
                                     <div className='col-sm-4 vmiddle'>
-                                        <h3 className='text-white ftitle'>Fashion Design</h3>
+                                        <h3 className='text-white ftitle'>Artistic Design</h3>
                                         <div className='f-description'>
-                                            <p className='text-white'>Mood Board Design</p>
-                                            <p className='text-white'>Graphic Design</p>
-                                            <p className='text-white'>T-Shirt Design</p>
-                                            <p className='text-white'>Look and Silhouette</p>
-                                            <p className='text-white'>Menswear Design</p>
-                                            <p className='text-white'>Womenswear Design</p>
-                                            <p className='text-white'>Kidswear Design</p>
-                                            <p className='text-white'>Ethnicwear Design</p>
-                                            <p className='text-white'>Activewear Design</p>
-                                            <p className='text-white'>Textile Design</p>
+                                        <p className='text-white text-right'>Illustrations</p>
+                                            <p className='text-white text-right'>Caricature and Portraits</p>
+                                            <p className='text-white text-right'>Fine Arts</p>
+                                            <p className='text-white text-right'>Pattern Design</p>
+                                            <p className='text-white text-right'>Character Design</p>
+                                            <p className='text-white text-right'>Comic Design</p>
+                                            <p className='text-white text-right'>Vector Tracing</p>
+                                            <p className='text-white text-right'>Textile Design</p>
                                         </div>
                                     </div>
                                     <div className='col-sm-8 vmiddle'>
