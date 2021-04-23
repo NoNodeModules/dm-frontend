@@ -171,14 +171,14 @@ And that is exactly the approach we should have towards design aswell. </p>
                                     <div className='col-sm-4 vmiddle'>
                                         <h3 className='text-white ftitle'>Artistic Design</h3>
                                         <div className='f-description'>
-                                        <p className='text-white text-right'>Illustrations</p>
-                                            <p className='text-white text-right'>Caricature and Portraits</p>
-                                            <p className='text-white text-right'>Fine Arts</p>
-                                            <p className='text-white text-right'>Pattern Design</p>
-                                            <p className='text-white text-right'>Character Design</p>
-                                            <p className='text-white text-right'>Comic Design</p>
-                                            <p className='text-white text-right'>Vector Tracing</p>
-                                            <p className='text-white text-right'>Textile Design</p>
+                                        <p className='text-white'>Illustrations</p>
+                                            <p className='text-white'>Caricature and Portraits</p>
+                                            <p className='text-white'>Fine Arts</p>
+                                            <p className='text-white'>Pattern Design</p>
+                                            <p className='text-white'>Character Design</p>
+                                            <p className='text-white'>Comic Design</p>
+                                            <p className='text-white'>Vector Tracing</p>
+                                            <p className='text-white'>Textile Design</p>
                                         </div>
                                     </div>
                                     <div className='col-sm-8 vmiddle'>
@@ -200,18 +200,17 @@ And that is exactly the approach we should have towards design aswell. </p>
                                         </div>
                                     </div>
                                     <div className='col-sm-4 vmiddle'>
-                                        <h3 className='text-white ftitle text-right'>Fashion Design</h3>
+                                        <h3 className='text-white ftitle text-right'>Digital Design</h3>
                                         <div className='f-description'>
-                                            <p className='text-white text-right'>Mood Board Design</p>
-                                            <p className='text-white text-right'>Graphic Design</p>
-                                            <p className='text-white text-right'>T-Shirt Design</p>
-                                            <p className='text-white text-right'>Look and Silhouette</p>
-                                            <p className='text-white text-right'>Menswear Design</p>
-                                            <p className='text-white text-right'>Womenswear Design</p>
-                                            <p className='text-white text-right'>Kidswear Design</p>
-                                            <p className='text-white text-right'>Ethnicwear Design</p>
-                                            <p className='text-white text-right'>Activewear Design</p>
-                                            <p className='text-white text-right'>Textile Design</p>
+                                            <p className='text-white text-right'>Motion Logo</p>
+                                            <p className='text-white text-right'>Motion Creatives</p>
+                                            <p className='text-white text-right'>Animation Video</p>
+                                            <p className='text-white text-right'>Video Design</p>
+                                            <p className='text-white text-right'>UI/UX</p>
+                                            <p className='text-white text-right'>3D</p>
+                                            <p className='text-white text-right'>Copy Writing</p>
+                                            <p className='text-white text-right'>Image/Video edits</p>
+                                            <p className='text-white text-right'>Web Developer</p>
                                         </div>
                                     </div>
                                 </div>
